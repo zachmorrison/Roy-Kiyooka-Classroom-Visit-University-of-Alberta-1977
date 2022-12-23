@@ -1,0 +1,206 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question.json",
+  "type": "AnnotationPage",
+  "label": "Question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Doug Barbour: Well I don't know if it's a valid question to you [Roy Kiyooka], because you've put them [the letters in transcanada letters] out there and they're there, but I suspect, I don't know if I'm being fair to you people [the students] or not in asking you what, [after] hearing that, [are] your responses? I mean, you [the students] say you haven't read the books and that's fine, but you've heard Roy read some of his letters, and, were you bothered by a lot of things that you couldn't understand because they were private records or even the names of the people he was writing to? Did that cause trouble? I was intrigued for example that you [Roy Kiyooka] didn't bother explaining who Victor was or who any of those people [mentioned in the letters] were. That wasn't important to you in reading the poem so publicly. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student 1: What are you saying specifically about your diaries? Because I found them terribly uninteresting. And I didn't really . . . A few of the things that you were saying I understood, but I couldn't help saying to myself, \"so what?\"  Could you tell me some kind of approach, new and different approach, to writing like yours and your writing that might help me with it? Because I am certainly willing to learn what you want to say, but it's just not happening.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "163,219"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roy Kiyooka: Well, I've been a teach a long time and I know guys like you. I've got young kids in the university who, though some part of their consciousness is shaped by the fact that they were born subsequent to the Second World War, that they have had television in their lives since their infancy, that they've had a large measure of life's comforts given a priori, but their heads nonetheless belong somewhere in the 17th, 18th, and19th century. And that is curious to me. I mean what don't you understand  about the language of this moment in time, this moment that you are living in, and what are the impediments to it? ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "241,319"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student 1: Right, and what I'm asking you is that -- is there anyway I could find some significance in your work?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "355,363"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student 2: An emotional and intellectual complex? Can you explain that further? What do you mean? ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "434,442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student 2: It's the last word there, \"complex,\" [unintelligible]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "454,458"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Doug Barbour: Your willing to sacrifice, or your willing to have a reader miss a good portion of that book if something get through to them, then?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "553,562"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Doug Barbour: You weren't worried about a reader then?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "569,571"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-question-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Doug Barbour: So you do want to reach out?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "632,634"
+        }
+      }
+    }
+  ]
+}
