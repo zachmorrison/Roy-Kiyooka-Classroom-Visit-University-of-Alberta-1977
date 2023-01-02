@@ -29,8 +29,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p>Kojève, Alexandre. <em>Introduction to the Reading of Hegel: Lectures on the Phenomenology of Spirit</em>. Edited by Allan Bloom, translated by James H. Nichols Jr., Cornell University Press, 1980.</p>
 <p>Lacan, Jacques. “Aggressiveness and Psychoanalysis.” 1948. <em>Écrits, a selection</em>. 1966. Translated by Bruce Fink, W. W. Norton & Company, 2002, pp. 10-30.</p>
 <p>–––. <em>The Four Fundamental Concepts of Psychoanalysis</em>. 1973. Edited by Jacques-Alain Miller, translated by Alan Sheridan, Karnac, 2004.</p>
-<p>–––. “The Mirror Stage as Formative of the I Function, as Revealed in Psychoanalytic Experience.” 1949. <em>Écrits, a selection</em>. 1966. Translated by Bruce Fink, W. W. Norton & Company, 2002, pp. 10-30.</p>
-<p>–––. “On a Question Preliminary to Any Possible Treatment of Psychosis.” 1959. <em>Écrits, a selection</em>. 1966. Translated by Bruce Fink, W. W. Norton & Company, 2002, pp. 10-30.</p>
+<p>–––. “The Mirror Stage as Formative of the I Function, as Revealed in Psychoanalytic Experience.” 1949. <em>Écrits, a selection</em>. 1966. Translated by Bruce Fink, W. W. Norton & Company, 2002, pp. 3-9.</p>
+<p>–––. “On a Question Preliminary to Any Possible Treatment of Psychosis.” 1959. <em>Écrits, a selection</em>. 1966. Translated by Bruce Fink, W. W. Norton & Company, 2002, pp. 169-214.</p>
 <p>–––. <em>The Seminar of Jacques Lacan: Book 1, Freud’s Papers on Technique, 1953-1954</em>. 1975. Edited by Jacques-Alain Miller, translated by John Forrester, W. W. Norton & Company, 1991.</p>
 <p>–––. <em>The Seminar of Jacques Lacan: Book 3, The Psychoses, 1955-56</em>. 1981. Edited by Jacques-Alain Miller, translated by Russell Grigg, W. W. Norton & Company, 1993.</p>
 <p>Vanheule, Stijn. <em>The Subject of Psychosis: A Lacanian Perspective</em>. Palgrave Macmillan, 2011.</p> 
