@@ -107,10 +107,10 @@ h1 {
         <h1>Here is the Title</h1>
         <div id="byline">Here is the byline</div>
             <div id="cf3">
-                <img class="top" src="images/Schema-4.jpeg" />
-                <img class="top" src="images/Schema-3.jpeg" />
-                <img class="top" src="images/Schema-2.jpeg" />
-                <img class="top" src="images/Schema-1.jpeg" />
+                <img class="top" src="https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg" />
+                <img class="top" src="https://user-images.githubusercontent.com/119261903/228941765-e05b996a-2266-4e0c-8887-22bb1d8ffe7f.jpeg" />
+                <img class="top" src="https://user-images.githubusercontent.com/119261903/228941763-278f122d-3bd0-4800-b4b8-ffab9fbf72cd.jpeg" />
+                <img class="top" src="https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg" />
             </div>
             <div id="caption">
                 <h3>Here is a description of the image</h3>
@@ -124,9 +124,3 @@ h1 {
             </div>
         </body>
 </html>
-
-
-![Schema-1](https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg)
-![Schema-2](https://user-images.githubusercontent.com/119261903/228941763-278f122d-3bd0-4800-b4b8-ffab9fbf72cd.jpeg)
-![Schema-3](https://user-images.githubusercontent.com/119261903/228941765-e05b996a-2266-4e0c-8887-22bb1d8ffe7f.jpeg)
-![Schema-4](https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg)
