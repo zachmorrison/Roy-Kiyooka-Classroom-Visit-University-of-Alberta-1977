@@ -103,8 +103,8 @@ h1 {
     
       <center>
     <body>
-        <h1>Paranoid Speech</h1>
-        <div id="byline">A recording of a classroom dialogue featuring Roy Kiyooka</div>
+        <h1>Paranoid Desire</h1>
+        <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div>
             <div id="cf3">
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg" />
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941765-e05b996a-2266-4e0c-8887-22bb1d8ffe7f.jpeg" />
@@ -112,12 +112,12 @@ h1 {
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg" />
             </div>
             <div id="caption">
-                <h3>Jaques Lacan's graph of intersubjective commmunication, the <i>Schema-L</i>, superimposed onto Gilles Deleuze and Felix Guattari's connective synthesis of production</h3>
+                <h3>Jaques Lacan's graph of intersubjective commmunication, the <i>Schema-L</i>, superimposed onto Gilles Deleuze and Felix Guattari's connective synthesis of production.</h3>
             </div>
             <div id="content">
             <tr>
             <p>
-        This recording demonstrates how paranoia 'blots out' or restricts libidinal relationships. 
+        This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts the properly libidinal relationship. 
             </p>
             </div>
         </body>
