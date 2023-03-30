@@ -4,6 +4,10 @@
 
 layout: home
 ---
+
+
+<!DOCTYPE html>
+
 <html>
     <head>
         <style>
@@ -120,6 +124,7 @@ h1 {
             </div>
         </body>
 </html>
+
 
 ![Schema-1](https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg)
 ![Schema-2](https://user-images.githubusercontent.com/119261903/228941763-278f122d-3bd0-4800-b4b8-ffab9fbf72cd.jpeg)
