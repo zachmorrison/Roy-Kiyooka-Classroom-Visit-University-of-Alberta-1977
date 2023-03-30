@@ -4,9 +4,124 @@
 
 layout: home
 ---
-<h1><center>Roy Kiyooka Classroom Visit, University of Alberta, 1977</center></h1>
+<html>
+    <head>
+        <style>
+            #cf3 {
+    position:relative;
+    height:448px;
+    width:400px;
+    margin:0 auto;
 
+  }
 
-  <p>This classroom dialogue demonstrates how paranoia 'blots out' the connective synthesis of desire.</p>
- <center> <img src="https://user-images.githubusercontent.com/119261903/222873283-9f86e75a-2079-4f38-8059-2515abace7cd.jpeg" style="width:500px;height:600px;"></center>
+div {
+    display: block;
+    margin: 5px;
+}
+
+#content {
+    margin: 1%;
+    position: relative;
+    top: 10px;
+}
+
+#caption {
+    text-align: center;
+    position: relative;
+
+}
+
+#byline {
+    text-align: center;
+    text-decoration: bold;
+    font-size: 1.5em;
+}
+
+h1 {
+    text-align: center;
+}
   
+#cf3 img {
+    max-width: 400px;
+
+    margin-bottom: -500px;
+
+    position:absolute;
+    left:0;
+
+    z-index: -1;
+  }
+
+  
+
+  @keyframes cf3FadeInOut {
+    0% {
+      opacity:1;
+    }
+    17% {
+      opacity:1;
+    }
+    25% {
+      opacity:0;
+    }
+    92% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+
+
+
+  #cf3 img.top {
+    animation-name: cf3FadeInOut;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 12s;
+    animation-direction: normal;
+    }
+
+
+  
+  #cf3 img:nth-of-type(1) {
+    animation-delay: 6s;
+  }
+  #cf3 img:nth-of-type(2) {
+    animation-delay: 4s;
+  }
+  #cf3 img:nth-of-type(3) {
+    animation-delay: 2s;
+  }
+  #cf3 img:nth-of-type(4) {
+    animation-delay: 0;
+  }
+        </style>
+    </head>
+    <body>
+        <h1>Here is the Title</h1>
+        <div id="byline">Here is the byline</div>
+            <div id="cf3">
+                <img class="top" src="images/Schema-4.jpeg" />
+                <img class="top" src="images/Schema-3.jpeg" />
+                <img class="top" src="images/Schema-2.jpeg" />
+                <img class="top" src="images/Schema-1.jpeg" />
+            </div>
+            <div id="caption">
+                <h3>Here is a description of the image</h3>
+            </div>
+            <div id="content">
+            <tr>
+            <h2>Here is a subheading</h2>
+            <p>
+        Bears are found in the Americas, Europe, and Asia. They are often found in mountainous areas and forests. The black bear lives in North America. The brown bear is found in North America, Europe, and Asia. The Asiatic black bear and the sloth bear live in parts of Asia. The world’s far northern regions called the Arctic are home to the polar bear.
+            </p>
+            </div>
+        </body>
+</html>
+
+![Schema-1](https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg)
+![Schema-2](https://user-images.githubusercontent.com/119261903/228941763-278f122d-3bd0-4800-b4b8-ffab9fbf72cd.jpeg)
+![Schema-3](https://user-images.githubusercontent.com/119261903/228941765-e05b996a-2266-4e0c-8887-22bb1d8ffe7f.jpeg)
+![Schema-4](https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg)
