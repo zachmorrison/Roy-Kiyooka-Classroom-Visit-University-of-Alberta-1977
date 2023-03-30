@@ -5,9 +5,6 @@
 layout: home
 ---
 
-
-<!DOCTYPE html>
-
 <html>
     <head>
         <style>
@@ -103,8 +100,10 @@ h1 {
   }
         </style>
     </head>
+    
+      <center>
     <body>
-        <h1>Why are we so paranoid?</h1>
+        <h1>Paranoid Speech</h1>
         <div id="byline">A recording of a classroom dialogue featuring Roy Kiyooka</div>
             <div id="cf3">
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg" />
@@ -113,7 +112,7 @@ h1 {
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941756-cd97d268-24ce-4131-87e7-47c5e2f57614.jpeg" />
             </div>
             <div id="caption">
-                <h3>Jaques Lacan's <i>Schema-L</i> and Gilles Deleuze and Felix Guattari's connective synthesis of production</h3>
+                <h3>Jaques Lacan's graph of intersubjective commmunication, the <i>Schema-L</i>, superimposed onto Gilles Deleuze and Felix Guattari's connective synthesis of production</h3>
             </div>
             <div id="content">
             <tr>
@@ -122,4 +121,5 @@ h1 {
             </p>
             </div>
         </body>
+        </center>
 </html>
