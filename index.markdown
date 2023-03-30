@@ -102,8 +102,6 @@ h1 {
     </head>
     
      <body>
-        
-        
         <center>
         <h1>Paranoid Desire</h1>
         <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div>
@@ -122,6 +120,8 @@ h1 {
         This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts the properly libidinal relationship. 
             </p>
             </div>
-            </body>
+         </center>
+    </body>
+    
      
 </html>
