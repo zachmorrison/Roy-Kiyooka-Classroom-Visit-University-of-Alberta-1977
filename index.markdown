@@ -118,10 +118,6 @@ h1 {
                 <p>
         This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts libidinal relations.
                 </p>
-        </div>
-    </body>
-</html>
-    
         
            
                 
