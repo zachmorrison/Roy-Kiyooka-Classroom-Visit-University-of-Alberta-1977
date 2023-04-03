@@ -101,7 +101,7 @@ h1 {
         </style>
     </head>
     
-     <body><center>
+    <body>
         <h1>Paranoid Desire</h1>
         <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div>
             <div id="cf3">
@@ -113,12 +113,16 @@ h1 {
             <div id="caption">
                 <h3>Jaques Lacan's graph of intersubjective commmunication, the <i>Schema-L</i>, superimposed onto Gilles Deleuze and Felix Guattari's connective synthesis of production.</h3>
             </div>
-            <div id="content">
+        <div id="content">
             <tr>
-            <p>
-        This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts libidinal relations. 
-            </p>
-            </div>
-         </center></body>
-
+                <p>
+        This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts libidinal relations.
+                </p>
+        </div>
+    </body>
 </html>
+    
+        
+           
+                
+                
