@@ -116,7 +116,7 @@ h1 {
         <div id="content">
             <tr>
                 <p>
-        This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts libidinal relations. It thereby enables analyses of the origin, structure, and subversion of paranoid desire.
+        This recording, like the above graphic, demonstrates how paranoia 'blots out' or restricts libidinal relations. It thereby facillitates analyses of the origin, structure, and subversion of paranoid desire.
                 </p>
         
            
