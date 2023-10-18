@@ -5,10 +5,17 @@
     "label": { "en": [ "Audio clip from Roy Kiyooka Classroom Visit at the University of Alberta, 1977 (SW153a-b)" ] },
     "homepage": [
       {
-        "id": "The Internet Archive",
+        "id": "https://archive.org/details/sw-153a-roy-kiyooka-clip",
         "type": "Text",
         "label": { "en": [ "Audio clip from Roy Kiyooka Classroom Visit at the University of Alberta, 1977 (SW153a-b)" ] },
         "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "The Internet Archive" ] }
       }
     ],
     "items": [
